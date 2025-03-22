@@ -45,7 +45,6 @@ Je suis Raphaël Attias et j'ai 20 ans.
 - [Mon site web](https://stormsecurity.fr)
 - [Mon Linktree](https://linktr.ee/raphael.attias)
 - [Mon LinkedIn](https://www.linkedin.com/in/raphael-attias)
-- [Mon Twitter](https://twitter.com/monpseudo)
 
 ### nb visiteurs
 <div align="center">
