@@ -1,6 +1,5 @@
 
-# Salut, je suis👋
-
+# Salut 👋, je suis
 **Cyber-entrepreneur & Founder @ [stormsecurity.fr](https://stormsecurity.fr)**
 Et **IT Security @ XXXXXX** 🔒
 🔍 Je suis passionné par la cybersécurité, l'OSINT et la protection des données. J'ai conçu mon propre **home lab** pour expérimenter et innover dans mes projets les plus fous.🏠🖥️ 
