@@ -1,10 +1,10 @@
 
 # Salut 👋, je suis
 **Cyber-entrepreneur & Founder @ [stormsecurity.fr](https://stormsecurity.fr)**
-& **IT Security @ XXXXXX** 🔒
+& **Ingénieur IA au CDC @ XXXXXX** 🔒
 🔍 Je suis passionné par la cybersécurité, l'OSINT et la protection des données. J'ai conçu mon propre **home lab** pour expérimenter et innover dans mes projets les plus fous.🏠🖥️ 
-Étudiant en ***cybersécurité*** et ***Président*** du BDE de l'école La Plateforme  
-Je suis Raphaël Attias et j'ai 21 ans.
+Étudiant en ***cybersécurité*** et ***Président d'honneur*** du BDE de l'école La Plateforme  
+Je suis Raphaël Attias et j'ai 22 ans.
 ## Projets récents
 - [Webhook-monitoring](https://github.com/raphael-attias/Webhook-monitoring) - Mon monitoring maison
 - [Site-web-Stormsecurity.fr](https://github.com/raphael-attias/Site-web-Stormsecurity.fr) - Ma micro-entreprise en cybersécurité.
